@@ -82,6 +82,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_INCLUDE_NTFS_3G := true
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 TW_FORCE_USE_BUSYBOX := true
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
 
 # Debug
 TWRP_INCLUDE_LOGCAT := true
